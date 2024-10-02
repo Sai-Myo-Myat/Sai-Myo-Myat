@@ -3,7 +3,7 @@
 ## Sai Myo Myat - A Full-stack Developer
 
 <p align="center">
-<img width="200px" height="200px" src="https://github.com/Sai-Myo-Myat/ultimate_portfolio/blob/main/public/logo-icon.jpg?raw=true" alt="Cartton-Illustration">
+<img width="200px" height="200px" src="https://github.com/Sai-Myo-Myat/saimyomyat.dev/blob/main/public/logo-icon.jpg?raw=true" alt="Cartton-Illustration">
 </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sai-Myo-Myat&label=Profile%20views&color=0e75b6&style=flat-square" alt="saimyomyat" /></p>
