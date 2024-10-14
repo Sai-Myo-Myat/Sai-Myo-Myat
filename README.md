@@ -10,7 +10,7 @@
 -->
 
 - 💼 I’m currently working as a full-stack developer at [BigBee](https://github.com/bigbee-dev).
-- 🚀 Check out my website at <a href="https://saimyomyat.dev" target="_blank">saimyomyat.dev</a>. <!-- or just [Google](https://www.google.com/search?q=sat+naing) my name. -->
+- 🚀 Check out my website at <a href="https://saimyomyat.dev" target="_blank">saimyomyat.dev</a> or just [Google](https://www.google.com/search?q=sai+myo+myat) my name.
 - ⚡ Fun fact: I love art.
 
 <h3 align="left">Connect with me:</h3>
